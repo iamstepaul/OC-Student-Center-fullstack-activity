@@ -6,7 +6,7 @@ const Product = require('./models/products')
 
 app.use(express.json())
 
-mongoose.connect('mongodb+srv://stephen:jQPGOlgJi9ifDCz2@cluster0.kjtenpj.mongodb.net/?retryWrites=true&w=majority').then(() => {
+mongoose.connect('add yours').then(() => {
     console.log('successfully connected to mongodb atlas')
 })
 .catch((error) => {
