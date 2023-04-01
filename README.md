@@ -1,4 +1,4 @@
-# OpenClassrooms-Student-Center fullstack-activity #
+# OC-Student-Center fullstack-activity #
 
 ## Installation ##
 Clone this repo, and run `npm install` from within the project directory.
